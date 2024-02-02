@@ -1,0 +1,6 @@
+[submodule "conda"]
+	path = conda
+	url = https://github.com/binder-examples/conda.git
+[submodule "search_swot"]
+	path = search_swot
+	url = https://github.com/fbriol/search_swot.git
